@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**DileepPriyamantha/DileepPriyamantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - ### Hi there, I'm Dilip Priyamantha!👋
 
 - 🔭 I’m currently working as an intern at [elearning.lk](https://www.elearning.lk).
