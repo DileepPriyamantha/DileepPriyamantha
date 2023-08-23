@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 - ### Hi there, I'm Dilip Priyamantha!👋
 
 - 🔭 I’m currently working as an intern at [elearning.lk](https://www.elearning.lk).
@@ -12,5 +10,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I absolutely love playing cricket and currently hold positions as the President and Secretary at the Lion Heart Sport Club. I'm also a passionate traveler, always eager to explore new places.
 
-
--->
