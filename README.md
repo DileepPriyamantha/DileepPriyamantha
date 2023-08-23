@@ -8,5 +8,5 @@
 - 💬 Ask me about my interest in Quality Assurance, software testing, and my journey as a student in the field of Software Technology.
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](linkedin.com/in/dilip-priyamantha-a81401270) or drop me an email at dilpriyaman@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I absolutely love playing cricket and currently hold positions as the President and Secretary at the Lion Heart Sport Club. I'm also a passionate traveler, always eager to explore new places.
+- ⚡ Fun fact: I absolutely love playing cricket and currently hold positions as the President at the Lion Heart Sport Club. I'm also a passionate traveler, always eager to explore new places.
 
